@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ORBIT 2.0
 
 A polished, mobile-first personal growth companion built with Expo, React Native and TypeScript.
@@ -19,3 +20,6 @@ For web, press `w` or run `npm run web`. For device testing, scan the QR code wi
 
 ## Notes
 Mission state is currently in memory and resets on app reload. Authentication, persistent storage, backend sync and production testing are not yet implemented. The web orb is a layered visual fallback; the native build uses the animated React Three Fiber scene.
+=======
+# Orbit-Mobile
+>>>>>>> 28987a20b6fe7f465deec853a61b25fc0efadec8
