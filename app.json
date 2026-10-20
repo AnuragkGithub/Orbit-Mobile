@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "ORBIT",
+    "slug": "orbit-mobile",
+    "scheme": "orbit",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "android": {
+      "package": "com.orbit.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#080A16"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.orbit.mobile"
+    }
+  }
+}
